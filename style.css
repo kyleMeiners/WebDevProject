@@ -1,0 +1,459 @@
+* {
+  scroll-behavior: smooth;
+}
+
+.menu {
+position: fixed;
+z-index: 1;
+width: 1440px;
+  width: 100%;
+height: 100px;
+left: 0px;
+top: 0px;
+background: #1C2A29;
+}
+
+.top {
+display: inline;
+position: absolute;
+width: 94px;
+height: 21px;
+left: 100px;
+top: 40px;
+
+font-family: 'Raleway';
+font-style: normal;
+font-weight: 400;
+font-size: 18px;
+line-height: 21px;
+display: flex;
+align-items: center;
+
+color: #FFFFFF;
+}
+
+.option1 {
+display: inline;
+position: absolute;
+width: 94px;
+height: 21px;
+left: 310px;
+top: 40px;
+
+font-family: 'Raleway';
+font-style: normal;
+font-weight: 400;
+font-size: 18px;
+line-height: 21px;
+display: flex;
+align-items: center;
+
+color: #FFFFFF;
+
+}
+
+.option2 {
+position: absolute;
+width: 90px;
+height: 21px;
+left: 520px;
+top: 40px;
+
+font-family: 'Raleway';
+font-style: normal;
+font-weight: 400;
+font-size: 18px;
+line-height: 21px;
+display: flex;
+align-items: center;
+
+color: #FFFFFF;
+}
+
+.option3 {
+position: absolute;
+width: 126px;
+height: 21px;
+left: 730px;
+top: 40px;
+
+font-family: 'Raleway';
+font-style: normal;
+font-weight: 400;
+font-size: 18px;
+line-height: 21px;
+display: flex;
+align-items: center;
+
+color: #FFFFFF;
+}
+
+.option4 {
+position: absolute;
+width: 85px;
+height: 21px;
+left: 940px;
+top: 40px;
+
+font-family: 'Raleway';
+font-style: normal;
+font-weight: 400;
+font-size: 18px;
+line-height: 21px;
+display: flex;
+align-items: center;
+
+color: #FFFFFF;
+}
+
+.name {
+position: absolute;
+width: 100%;
+height: 703px;
+left: 0px;
+top: 97px;
+
+background: url('..\images\code.jpg');
+
+}
+
+.fnc {
+position: absolute;
+width: 622px;
+height: 500px;
+left: 570px;
+top: 50px;
+
+font-family: 'PT Sans';
+font-style: normal;
+font-weight: 700;
+font-size: 72px;
+line-height: 93px;
+
+color: #FFFFFF;
+}
+
+.about {
+position: absolute;
+width: 1440px;
+  width: 100%;
+height: 1130px;
+left: 0px;
+top: 800px;
+
+background: #F4F3F1;
+}
+
+.head {
+position: absolute;
+width: 498px;
+height: 93px;
+left: 545px;
+top: 100px;
+
+font-family: 'PT Sans';
+font-style: normal;
+font-weight: 700;
+font-size: 72px;
+line-height: 93px;
+display: flex;
+align-items: center;
+text-align: center;
+
+color: #000000;
+
+  padding: 50px;
+  
+}
+
+.profile {
+position: absolute;
+width: 398px;
+height: 398px;
+left: 550px;
+top: 305px;
+
+background: url('prof.jpg'), #C4C4C4;
+border-radius: 10px;
+}
+
+.info {
+position: absolute;
+width: 1240px;
+height: 47px;
+left: 100px;
+top: 770px;
+
+font-family: 'PT Sans';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 21px;
+
+color: #000000;
+}
+
+
+
+.projects {
+  vertical-align: middle;
+position: absolute;
+width: 1440px;
+  width: 100%;
+height: 985px;
+
+top: 1920px;
+
+background: #F4F3F1;
+}
+
+.phead {
+position: absolute;
+width: 246px;
+height: 93px;
+left: 597px;
+top: 100px;
+
+font-family: 'PT Sans';
+font-style: normal;
+font-weight: 700;
+font-size: 72px;
+line-height: 93px;
+display: flex;
+align-items: center;
+text-align: center;
+
+color: #000000;
+}
+
+.project1 {
+position: absolute;
+left: 0%;
+right: 0%;
+top: 0%;
+bottom: 0%;
+
+background: rgba(196, 196, 196, 0.5);
+border-radius: 10px;
+
+height: 232px;
+width: 610px;
+left: 100px;
+top: 272px;
+border-radius: 10px;
+background: url('proj.png');
+  display: inline;
+  text-align: center;
+
+
+}
+
+.ptitle1 {
+position: absolute;
+left: 40.49%;
+right: 44.75%;
+top: 40.95%;
+bottom: 41.38%;
+
+font-family: 'PT Sans';
+font-style: normal;
+font-weight: 700;
+font-size: 32px;
+line-height: 41px;
+display: flex;
+align-items: center;
+text-align: center;
+
+color: white;
+
+}
+
+
+.pdesc1 {
+position: absolute;
+
+right: 4.26%;
+top: 73.71%;
+bottom: 9.91%;
+
+font-family: 'PT Sans';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 21px;
+display: flex;
+align-items: center;
+text-align: center;
+
+color: white;
+}
+
+.project2 {
+position: absolute;
+left: 0%;
+right: 0%;
+top: 0%;
+bottom: 0%;
+
+background: rgba(196, 196, 196, 0.5);
+border-radius: 10px;
+
+height: 232px;
+width: 610px;
+left: 730px;
+top: 272px;
+border-radius: 10px;
+  background: url('proj.png');
+
+}
+
+.project3 {
+position: absolute;
+left: 0%;
+right: 0%;
+top: 0%;
+bottom: 0%;
+
+background: rgba(196, 196, 196, 0.5);
+border-radius: 10px;
+
+height: 232px;
+width: 610px;
+left: 100px;
+top: 554px;
+border-radius: 10px;
+  background: url('proj.png');
+}
+
+.project4 {
+position: absolute;
+left: 0%;
+right: 0%;
+top: 0%;
+bottom: 0%;
+
+background: rgba(196, 196, 196, 0.5);
+border-radius: 10px;
+
+height: 232px;
+width: 610px;
+left: 730px;
+top: 554px;
+border-radius: 10px;
+  background: url('proj.png');
+  
+}
+
+.contact {
+position: absolute;
+  align-items: center;
+
+background: #F4F3F1;
+
+height: 180px;
+width: 1440px;
+  width: 100%;
+left: 0px;
+top: 2900px;
+border-radius: 0px;
+
+}
+
+.github {
+position: absolute;
+left: 1.56%;
+right: 1.56%;
+top: 1.56%;
+bottom: 2.15%;
+
+background: #000000;
+height: 96.2890625px;
+width: 91.875px;
+left: 123.56px;
+top: 1.5625px;
+border-radius: 0px;
+
+background: url("github.svg");
+}
+
+.linkedin {
+position: absolute;
+left: 1.56%;
+right: 1.56%;
+top: 1.56%;
+bottom: 2.15%;
+
+background: #000000;
+
+
+height: 81.2181625366211px;
+width: 70.99960327148438px;
+left: 275.12px;
+top: 9.39111328125px;
+border-radius: 0px;
+
+
+background: url("linkedin.svg");
+}
+
+
+
+.email {
+position: absolute;
+left: 1.56%;
+right: 1.56%;
+top: 1.56%;
+bottom: 2.15%;
+
+background: #000000;
+
+height: 72.75px;
+width: 103px;
+left: 412.68px;
+top: 12.125px;
+border-radius: 0px;
+
+
+background: url("email.png");
+}
+
+.pi {
+position: absolute;
+width: 183px;
+height: 21px;
+left: 680.8px;
+top: 148px;
+
+font-family: 'PT Sans';
+font-style: normal;
+font-weight: 700;
+font-size: 16px;
+line-height: 21px;
+
+display: flex;
+align-items: center;
+text-align: center;
+
+color: #000000;
+
+font-family: PT Sans;
+font-size: 16px;
+font-weight: 700;
+line-height: 21px;
+letter-spacing: 0em;
+text-align: center;
+
+}
+
+a {
+  color: white;
+  text-decoration: none;
+}
+
+a:hover {
+  text-decoration: underline;
+}
+
+
+
+
