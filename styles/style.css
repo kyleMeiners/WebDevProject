@@ -113,7 +113,7 @@ height: 703px;
 left: 0px;
 top: 97px;
 
-background: url('code.jpg');
+background: url('../images/code.jpg');
 
 }
 
@@ -173,7 +173,7 @@ height: 398px;
 left: 550px;
 top: 305px;
 
-background: url('prof.jpg'), #C4C4C4;
+background: url('../images/prof.jpg'), #C4C4C4;
 border-radius: 10px;
 }
 
@@ -241,7 +241,7 @@ width: 610px;
 left: 100px;
 top: 272px;
 border-radius: 10px;
-background: url('proj.png');
+background: url('../images/proj.png');
   display: inline;
   text-align: center;
 
@@ -303,7 +303,7 @@ width: 610px;
 left: 730px;
 top: 272px;
 border-radius: 10px;
-  background: url('proj.png');
+  background: url('../images/proj.png');
 
 }
 
@@ -322,7 +322,7 @@ width: 610px;
 left: 100px;
 top: 554px;
 border-radius: 10px;
-  background: url('proj.png');
+  background: url('../images/proj.png');
 }
 
 .project4 {
@@ -340,7 +340,7 @@ width: 610px;
 left: 730px;
 top: 554px;
 border-radius: 10px;
-  background: url('proj.png');
+  background: url('../images/proj.png');
   
 }
 
@@ -373,7 +373,7 @@ left: 123.56px;
 top: 1.5625px;
 border-radius: 0px;
 
-background: url("github.svg");
+background: url("../images/github.svg");
 }
 
 .linkedin {
@@ -393,7 +393,7 @@ top: 9.39111328125px;
 border-radius: 0px;
 
 
-background: url("linkedin.svg");
+background: url("../images/linkedin.svg");
 }
 
 
@@ -414,7 +414,7 @@ top: 12.125px;
 border-radius: 0px;
 
 
-background: url("email.png");
+background: url("../images/email.png");
 }
 
 .pi {
